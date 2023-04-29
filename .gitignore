@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+
+# Dependencies
+/node_modules
+/.expo
+
+# Expo generated files
+.expo
+.expo-shared
+build
+
+# macOS files
+.DS_Store
+
+# Android files
+android/.gradle
+android/build
+android/gradle
+android/local.properties
+android/app/build
+
+# iOS files
+ios/Pods
+ios/Podfile.lock
+ios/Podfile.lock
+ios/build
+ios/Pods
+*.xcworkspace
+
+# Misc
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
