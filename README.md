@@ -24,7 +24,7 @@ Durante o desenvolvimento deste projeto, foram relembrados os seguintes conceito
 Antes de iniciar, verifique se você tem o ambiente de desenvolvimento React Native configurado em seu sistema.
 
 1. Clone este repositório para sua máquina local:
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Pedrowesley/ignite-rn-todo-list.git
 
 
 2. Navegue até o diretório do projeto:
