@@ -1,6 +1,7 @@
 # To-Do List App
 
 Este é um projeto de uma aplicação de controle de tarefas no estilo *to-do list* criado com React Native e Expo.
+![Telas existentes no projeto](assets/capture_screens.png)
 
 ## Funcionalidades
 
